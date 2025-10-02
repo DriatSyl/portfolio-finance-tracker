@@ -24,7 +24,4 @@ Features: Dashboard mit Kennzahlen, **Linienchart** (Gesamtwert-Verlauf), **Donu
 2. Datei **`PortfolioTracker.java`** in ein Projekt legen (SDK **Java 11+**).
 3. `main` ausführen.
 
-### Variante B) CLI
-```bash
-javac PortfolioTracker.java
-java PortfolioTracker
+
